@@ -18,7 +18,7 @@ const Header = () => {
                 <a href="#">
                   <i className="fas fa-envelope me-2 text-secondary" />
                 </a>
-                Email@Example.com
+                vtech@gmail.com
               </small>
             </div>
             <div id="note" className="text-secondary d-none d-xl-flex">
